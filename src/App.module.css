@@ -1,0 +1,22 @@
+.title{
+    padding: 8rem;
+}
+
+.currentNominations{
+    padding-top: 40px;
+    padding-bottom:20px;
+}
+
+.resultCards{
+    display: inline-block;
+    padding: 0.5rem;
+}
+
+.nominationCards{
+    display: inline-block;
+    padding: 0rem;
+}
+
+.cardIMG{
+    width: 25%;
+}
