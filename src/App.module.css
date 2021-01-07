@@ -9,14 +9,24 @@
 
 .resultCards{
     display: inline-block;
-    padding: 0.5rem;
 }
 
 .nominationCards{
     display: inline-block;
-    padding: 0rem;
 }
 
 .cardIMG{
     width: 25%;
+}
+
+.searchBar{
+    padding-top: 4rem;
+}
+
+.nominationsContainer{
+    padding-bottom: 1rem;
+}
+
+.nominationsNumber{
+    padding-top: 4rem;
 }

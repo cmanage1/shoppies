@@ -7,7 +7,7 @@ Created for UX Developer Intern & Web Developer Intern Challenge - Summer 2021
 - React
 - Polaris UI
 
-### Steps I took in developing
+## Steps I took in developing
 
 1. Set up the searching function with API
 2. Map all API Call into return function
@@ -15,9 +15,9 @@ Created for UX Developer Intern & Web Developer Intern Challenge - Summer 2021
 4. Save nominations to localstorage
 5. Styling with Polaris
 
-### Available Scripts
+## Available Scripts
 - `yarn start`
 - `yarn test`
 - `yarn build`
-- 'yarn eject'
+- 'yarn eject`
 
