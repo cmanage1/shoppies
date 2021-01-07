@@ -226,6 +226,9 @@ class App extends React.Component{
         </div>
           {removeToast}
         </Frame>
+        <footer>
+          <p> Crated by Chethin Manage. View the code on <a target="__blank" href="https://github.com/cmanage1/shoppies">GitHub</a></p>
+        </footer>
       </Page>
     );
   }
