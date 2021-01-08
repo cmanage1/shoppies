@@ -1,6 +1,8 @@
 # The Shoppies 
 Created for UX Developer Intern & Web Developer Intern Challenge - Summer 2021
 
+Live Demonstration is available [here](http://chethinmanage.com/shoppies/)
+
 ## Tech Stack
 - React
 - Polaris UI
